@@ -7,3 +7,5 @@ For More details of Augementation you can refer to [Albumentation](https://album
 For more tranformation details using imgaug follow this [imgaug](https://imgaug.readthedocs.io/en/latest/) 
 
 For more tranformation details using Augmentor follow this [Augmentor](https://augmentor.readthedocs.io/en/stable/) 
+
+You can also rename your dataset using rename.py

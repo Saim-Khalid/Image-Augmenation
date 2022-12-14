@@ -1,7 +1,7 @@
 import Augmentor
 
 
-path_to_data = "/Users/saimkhalid/Documents/iOPTIME Resources/Dataset/archive (1)/images/PNG_TEST/PNG"
+path_to_data = "Dataset Path" #Enter the path to dataset
 
 #uncommetn or add any augmentation you want
 p = Augmentor.Pipeline(path_to_data)

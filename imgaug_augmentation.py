@@ -1,7 +1,7 @@
 from imgaug import augmenters as iaa
 #* **********************************************
 #Code for pulling images into a 4d numpy array 
-* **********************************************
+#* **********************************************
 import os 
 import sys
 import numpy as np 
